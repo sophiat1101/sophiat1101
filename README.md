@@ -15,7 +15,5 @@ Student | Bioinformatics & Computational Biology<br><br>Learning at the intersec
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sophiat1101&theme=rose&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=sophiat1101&icon=8&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
